@@ -32,7 +32,7 @@ SaaS application that automates and optimises the job application process using 
 ## 🎓 Background
 
 - MSc Data Science/Analytics — National College of Ireland, Dublin
-- 3+ years professional experience as a Full-Stack Developer
+- Almost 3 years professional experience as a Full-Stack Developer
 - Previously at **TRIAS** — building and shipping production software
 
 ---
