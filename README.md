@@ -62,24 +62,14 @@ I'm currently looking for **mid-level Software / Full-Stack / Backend Engineer**
 
 ## 🚀 Featured Projects
 
-### 🇮🇪 [Irish Jobs Market Dashboard](https://github.com/IdhayaBastine15/Irish_job_dashboard)
-> Full-stack analytics dashboard visualising live trends in the Irish tech job market.
-
-Built with **Python · FastAPI · React · PostgreSQL** — pulls real job data via the Adzuna API, extracts in-demand skills, and renders interactive charts. Built to understand the market I'm actively applying in.
-
----
-
-### 🔍 [Expense Fraud Detection System](https://github.com/IdhayaBastine15/expense_fraud_detection)
-> Cloud-native, serverless fraud detection pipeline for real-time financial transactions.
-
-Processes transactions in real-time, calculates risk scores using rule-based anomaly detection, and triggers alerts. Built with **JavaScript · AWS Lambda · Serverless architecture** — relevant to Dublin's fintech ecosystem.
-
----
-
-### 🤖 [Job Apply Bot](https://github.com/IdhayaBastine15/job_apply_bot)
-> SaaS tool that automates and optimises job applications using AI.
-
-Powered by **GPT-4o / Claude 3.5 Sonnet**, built in **TypeScript**. Demonstrates practical integration of LLMs into a production-style application.
+| Project | Stack | What It Does | Live Demo |
+|---------|-------|--------------|-----------|
+| **[HealthSync](https://github.com/IdhayaBastine15/healthSync)** | Python · FastAPI · Node.js · Redis · React | Real-time, event-driven microservices platform for synchronising patient records & lab results across hospital systems | [Live](https://healthsync-frontend-khoe.onrender.com) |
+| **[Irish Jobs Dashboard](https://github.com/IdhayaBastine15/Irish_job_dashboard)** | Python · FastAPI · React · PostgreSQL · Elasticsearch · AWS ECS · Terraform | Cloud-native analytics platform ingesting live Irish tech job data; NLP skill extraction + AI-powered market insights | [Live](https://gleeful-valkyrie-0d7c67.netlify.app) |
+| **[Clinical Records Platform](https://github.com/IdhayaBastine15/clinical_records_platform)** | NestJS · TypeORM · PostgreSQL · React | Full-stack lab data platform with event-driven abnormal-result flagging and real-time analytics dashboard | [Live](https://clinical-records-platform.vercel.app) |
+| **[Expense Fraud Detection](https://github.com/IdhayaBastine15/expense_fraud_detection)** | Python · AWS Lambda · DynamoDB · Next.js · Terraform | Serverless fraud detection pipeline with rule-based risk scoring, SNS alerts, and CloudWatch observability | — |
+| **[GDPR Privacy API](https://github.com/IdhayaBastine15/gdpr-privacy-api)** | FastAPI · PostgreSQL · React · Docker | Production-ready GDPR compliance app implementing Articles 15–20 with anonymisation, audit trails, and consent management | — |
+| **[Job Apply Bot](https://github.com/IdhayaBastine15/job_apply_bot)** | Next.js 15 · TypeScript · Prisma · Groq LLM | AI-powered resume optimiser and application tracker with ATS scoring and keyword gap analysis | — |
 
 ---
 
