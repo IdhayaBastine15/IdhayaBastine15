@@ -16,7 +16,7 @@
 
 ## 🙋 About Me
 
-I'm a full-stack engineer based in Dublin with 3+ years of professional experience building scalable web applications. I recently completed an MSc in Data Analytics at NCI, which means I don't just build features — I understand the data behind them.
+I'm a full-stack engineer based in Dublin with 3+ years of professional experience building scalable web applications. I completed an MSc in Data Analytics at NCI, which means I don't just build features,  I understand the data behind them.
 
 I'm currently looking for **mid-level Software / Full-Stack / Backend Engineer** roles in Ireland.
 
