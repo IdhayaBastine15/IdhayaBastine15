@@ -78,5 +78,5 @@ I'm currently looking for **mid-level Software / Full-Stack / Backend Engineer**
 I'm open to **full-time mid-level Software / Full-Stack / Backend Engineer roles** in Ireland, as well as contract work and coffee chats ☕
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/idhaya-bastine-kennedy/)
-- 📧 [Email]([idhayabastine15@gmail.com, idhayakennedy3@gmail.com])
+- 📧 [Email](mailto:idhayabastine15@gmail.com)
 - 📍 Dublin, Ireland · Stamp 1G (eligible to work)
