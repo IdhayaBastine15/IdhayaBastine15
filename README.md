@@ -83,15 +83,6 @@ Powered by **GPT-4o / Claude 3.5 Sonnet**, built in **TypeScript**. Demonstrates
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IdhayaBastine15&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdhayaBastine15&layout=compact&hide_border=true" height="150" />
-</p>
-
----
-
 ## 📬 Get in Touch
 
 I'm open to full-time roles, contract work, and coffee chats ☕
