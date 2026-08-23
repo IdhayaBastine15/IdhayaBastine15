@@ -73,6 +73,17 @@ I'm currently looking for **mid-level Software / Full-Stack / Backend Engineer**
 
 ---
 
+## 🌍 Open Source
+
+Active PRs against production codebases — not just personal repos:
+
+- TanStack Query — fix(solid-query): guard prefetchQuery with isServer
+- Strapi — enhancement(upload): reject oversized images before decode
+- OpenEMR — fix(testing): populate NULL encounter date in shared fixture
+- Medplum — fix: validate phone field against FHIR regex extensions
+
+--- 
+
 ## 📬 Get in Touch
 
 I'm open to **full-time mid-level Software / Full-Stack / Backend Engineer roles** in Ireland, as well as contract work and coffee chats ☕
