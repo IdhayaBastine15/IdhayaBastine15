@@ -85,6 +85,8 @@ Powered by **GPT-4o / Claude 3.5 Sonnet**, built in **TypeScript**. Demonstrates
 
 ## 📬 Get in Touch
 
-I'm open to full-time roles, contract work, and coffee chats ☕
+I'm open to **full-time mid-level Software / Full-Stack / Backend Engineer roles** in Ireland, as well as contract work and coffee chats ☕
 
-📧 Reach me via [LinkedIn](https://www.linkedin.com/in/idhaya-bastine-kennedy-79b15b186/) · Based in Dublin · Stamp 1G visa holder (eligible to work)
+- 💼 [LinkedIn](https://www.linkedin.com/in/idhaya-bastine-kennedy/)
+- 📧 [Email]([idhayabastine15@gmail.com, idhayakennedy3@gmail.com])
+- 📍 Dublin, Ireland · Stamp 1G (eligible to work)
